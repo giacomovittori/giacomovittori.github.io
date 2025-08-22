@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. DIET, La Sapienza University of Rome.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>DIET 111 room, RM032</p>
     <p>Eudossiana street, 18</p>
@@ -30,7 +30,7 @@ latest_posts:
 I was born in 1998 in Orvieto, Umbria, Italy and I earned a Bachelor's degree in Physics (July, 2022) at the
 University of Perugia, where I started developing an interest in quantum computing while working on the definition of 
 Quantum Blockchains based on Temporal Correlation for the thesis. I obtained a Master's degree in Data Science with
-honors in 2024 from Sapienza University of Rome. In my thesis I explored early exit techniques for quantum machine 
+honors (October, 2024) from Sapienza University of Rome. In my thesis I explored early exit techniques for quantum machine 
 learning algorithms as a method for noise mitigation.
 I am currently a PhD student in Information and Communication Technologies (ICT) at DIET department, working on quantum computing and 
 quantum machine learning.
